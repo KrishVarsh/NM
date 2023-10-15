@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(241, 189, 1);
+}
+
+h1 {
+    color: black;
+  }
+
+table,tr,td,th{
+    border: 1px solid;
+    justify-content: space-evenly;
+    width:300px;
+    :500px;
+
+}
+
+.center{
+    text-align: center;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Skill{
+    content: "";
+}
+
+.Interest{
+    content: "";
+}
